@@ -1,3 +1,7 @@
+theme: jekyll-theme-noz
+title: Welcome to the noz's homepage
+decription: Feel free to bookmark this to keep an eye on my project updates
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Nozizz-loop/Noz-l.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
